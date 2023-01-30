@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Henry 
 
-###Full-Stack Software Developer with a love for React and Redux. I play chess and mess around with state machines in my spare time. Open to new opportunities.
+Full-Stack Software Developer with a love for React and Redux. I play chess and mess around with state machines in my spare time. Open to new opportunities.
 
 
 
