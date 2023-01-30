@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Henry 
+## Hi there 👋, I'm Henry 
+
+###Full-Stack Software Developer with a love for React and Redux. I play chess and mess around with state machines in my spare time. Open to new opportunities.
 
 
 
@@ -16,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![javascript](https://user-images.githubusercontent.com/51127665/215567787-a6d382a1-cd52-473f-8c3c-e223f35577ef.png)
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
