@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![javascript](https://user-images.githubusercontent.com/51127665/215567787-a6d382a1-cd52-473f-8c3c-e223f35577ef.png)
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
