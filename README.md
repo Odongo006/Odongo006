@@ -1,7 +1,9 @@
 ## Hi there 👋, I'm Henry 
 
-Full-Stack Software Developer with a love for React and Redux. I play chess and mess around with state machines in my spare time. Open to new opportunities.
+![software dev banner](https://user-images.githubusercontent.com/51127665/215870702-d6bd0dcd-d115-4fce-81ef-14db7be2564b.png)
 
+
+Full-Stack Software Developer with a love for React and Redux. I play chess and mess around with state machines in my spare time. Open to new opportunities.
 
 
 <!--
