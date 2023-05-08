@@ -3,8 +3,15 @@
 ![software dev banner](https://user-images.githubusercontent.com/51127665/215870702-d6bd0dcd-d115-4fce-81ef-14db7be2564b.png)
 
 
-Full-Stack Software Developer with a love for React and Redux. I play chess and mess around with state machines in my spare time. Open to new opportunities.
+Greetings! My name is Henry Omondi, and as a full-stack software developer, I am deeply passionate about the transformative power of technology in the business space. With my strong background in entrepreneurship, I possess a unique blend of technical expertise and problem-solving skills that enable me to tackle complex challenges and create innovative solutions.
 
+Having completed coursework at Microverse, a leading remote software development program, I have honed my skills in a range of areas, including landing pages, APIs, games, e-commerce, and web scraper tools. As a developer, I am excited by the potential of technology to revolutionize industries and create new opportunities for businesses.
+
+In particular, I am fascinated by the ways in which technology has transformed the way businesses buy or rent properties, transact, and operate. The proptech industry is just one example of how technology has become a game changer in the business space, enabling businesses to streamline processes, enhance efficiency, and drive growth.
+
+Through my work in the tech industry, I have developed a passion for using my skills to build beautiful and intuitive user interfaces that enhance the user experience and create new business opportunities. I believe that my technical background, coupled with my entrepreneurial spirit and passion for problem-solving, make me an excellent candidate for a variety of roles in the technology and business space.
+
+I would welcome the opportunity to schedule a 15-minute Zoom call to discuss how I can contribute to your team and help you leverage the transformative power of technology to grow your business. Thank you for considering my application, and I look forward to hearing from you soon.
 
 <!--
 **Odongo006/Odongo006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/henry-odongo-91b830182/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/HenryOdongo007) 
 
@@ -34,6 +40,9 @@ Here are some ideas to get you started:
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/HenryOdongo007)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+## Legendary Henry 
+<a href="https://app.daily.dev/Odongo006"><img src="https://api.daily.dev/devcards/7777a1bc3cb4460589a0fea8169c9a41.png?r=ggn" width="400" alt="Henry Odongo's Dev Card"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
