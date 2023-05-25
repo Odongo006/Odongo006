@@ -13,6 +13,8 @@ Through my work in the tech industry, I have developed a passion for using my sk
 
 I would welcome the opportunity to schedule a 15-minute Zoom call to discuss how I can contribute to your team and help you leverage the transformative power of technology to grow your business. Thank you for considering my application, and I look forward to hearing from you soon.
 
+![GIF](https://camo.githubusercontent.com/7b71c9e9f7115112ce524a507d3ee377729bea9ea3a263cbe9c6badc15a16a4d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f514e46684f6f6c5665437a5051324d7838352f67697068792e6769663f6369643d6563663035653437663467713269356c676c777975346d38326d7539657836307069667a6b3574743472637330306773267269643d67697068792e6769662663743d67)
+
 <!--
 **Odongo006/Odongo006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
