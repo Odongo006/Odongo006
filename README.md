@@ -43,9 +43,6 @@ Here are some ideas to get you started:
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/HenryOdongo007)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-## Legendary Henry 
-<a href="https://app.daily.dev/Odongo006"><img src="https://api.daily.dev/devcards/7777a1bc3cb4460589a0fea8169c9a41.png?r=ggn" width="400" alt="Henry Odongo's Dev Card"/></a>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
