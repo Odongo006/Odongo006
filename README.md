@@ -12,7 +12,9 @@ My solid foundation in algorithms and data structures empowers me to optimize pe
 Not only have I mastered remote work best practices, but I excel at seamlessly collaborating with teams from anywhere. Confident, competent, and driven, I am poised to contribute my expertise to a thriving team and make a lasting impact in the world of web development.
 
 I would be delighted to schedule a 15-minute Zoom call to discuss how I can contribute to your team and leverage the transformative power of technology to propel your business forward. Thank you, and I eagerly await your response.
-![GIF](https://camo.githubusercontent.com/7b71c9e9f7115112ce524a507d3ee377729bea9ea3a263cbe9c6badc15a16a4d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f514e46684f6f6c5665437a5051324d7838352f67697068792e6769663f6369643d6563663035653437663467713269356c676c777975346d38326d7539657836307069667a6b3574743472637330306773267269643d67697068792e6769662663743d67)
+<div align="center">
+  <img src="https://camo.githubusercontent.com/7b71c9e9f7115112ce524a507d3ee377729bea9ea3a263cbe9c6badc15a16a4d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f514e46684f6f6c5665437a5051324d7838352f67697068792e6769663f6369643d6563663035653437663467713269356c676c777975346d38326d7539657836307069667a6b3574743472637330306773267269643d67697068792e6769662663743d67" alt="GIF" />
+</div>
 
 <!--
 **Odongo006/Odongo006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
