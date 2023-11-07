@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Henry 
-
-![software dev banner](https://user-images.githubusercontent.com/51127665/215870702-d6bd0dcd-d115-4fce-81ef-14db7be2564b.png)
-
+![Henry Odongo](https://github.com/Odongo006/Odongo006/assets/51127665/d2c0da32-a036-4eb5-ad82-e94624602a11)
 
 Just try to work with me and you'll see: I can do my work well and on time. I'm a developer with extensive experience in building high-quality sites and apps. I like working on projects with a team that cares about creating beautiful and easy to use interfaces. It's important to me to build long-term relationships with clients, so I'm primarily looking for long term projects. I'm flexible with my working hours and am happy to work with any existing freelancers you work with. I look forward to hearing from you!
 <div align="center">
