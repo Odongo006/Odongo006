@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Henry 
 ![Henry Odongo](https://github.com/Odongo006/Odongo006/assets/51127665/d2c0da32-a036-4eb5-ad82-e94624602a11)
 
-Just try to work with me and you'll see: I can do my work well and on time. I'm a developer with extensive experience in building high-quality sites and apps. I like working on projects with a team that cares about creating beautiful and easy to use interfaces. It's important to me to build long-term relationships with clients, so I'm primarily looking for long term projects. I'm flexible with my working hours and am happy to work with any existing freelancers you work with. I look forward to hearing from you!
+Experienced problem solver and leader with a proven track record of success in software development, leveraging JavaScript Express framework or Ruby on Rails to build scalable and secure solutions that empower businesses and instill trust in users through intuitive React.js frontends. Currently spearheading the Alpha Code Academy, fostering a vibrant local tech ecosystem through workshops, cohorts, and meetups.
 <div align="center">
   <img src="https://camo.githubusercontent.com/7b71c9e9f7115112ce524a507d3ee377729bea9ea3a263cbe9c6badc15a16a4d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f514e46684f6f6c5665437a5051324d7838352f67697068792e6769663f6369643d6563663035653437663467713269356c676c777975346d38326d7539657836307069667a6b3574743472637330306773267269643d67697068792e6769662663743d67" alt="GIF" />
 </div>
