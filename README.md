@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 
 ## Credentials
 ![Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66395039)
+![Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/68804464)
+![Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351981)
+![Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75356074)
+![Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82740676)
+![Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84932006)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/henry-odongo-91b830182/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/HenryOdongo007) 
