@@ -1,7 +1,15 @@
 ## Hi there 👋, I'm Henry 
 ![Henry Odongo](https://github.com/Odongo006/Odongo006/assets/51127665/d2c0da32-a036-4eb5-ad82-e94624602a11)
 
-Experienced problem solver and leader with a proven track record of success in software development, leveraging JavaScript Express framework or Ruby on Rails to build scalable and secure solutions that empower businesses and instill trust in users through intuitive React.js frontends. Currently spearheading the Alpha Code Academy, fostering a vibrant local tech ecosystem through workshops, cohorts, and meetups.
+I'm a Tech Strategist building SaaS & digital solutions that help businesses scale and maximize growth with technology.
+
+## Here is a fun fact about me:
+
+I help ambitious business owners and startup founders break free from inefficiencies, confusion, and lost opportunities by using technology to drive growth. With the right digital solutions, you can scale your business effortlessly, attract more customers, and maximize profits—without the frustration of trial and error. If you're tired of struggling and ready to take control, let’s build something extraordinary together.
+
+## I don’t just build software—I craft digital experiences that drive business success. 🚀
+
+You're just one smart decision away from transforming your business. Let’s create a tech-driven strategy that unlocks your full potential—Book a free consultation now!
 <div align="center">
   <img src="https://camo.githubusercontent.com/7b71c9e9f7115112ce524a507d3ee377729bea9ea3a263cbe9c6badc15a16a4d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f514e46684f6f6c5665437a5051324d7838352f67697068792e6769663f6369643d6563663035653437663467713269356c676c777975346d38326d7539657836307069667a6b3574743472637330306773267269643d67697068792e6769662663743d67" alt="GIF" />
 </div>
