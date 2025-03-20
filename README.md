@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Henry 
 ![Henry Odongo](https://github.com/Odongo006/Odongo006/assets/51127665/d2c0da32-a036-4eb5-ad82-e94624602a11)
 
-I'm a Tech Strategist building SaaS & digital solutions that help businesses scale and maximize growth with technology.
+### I'm a Tech Strategist building SaaS & digital solutions that help businesses scale and maximize growth with technology.
 
 ## Here is a fun fact about me:
 
