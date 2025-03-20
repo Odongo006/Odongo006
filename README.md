@@ -7,7 +7,7 @@ I'm a Tech Strategist building SaaS & digital solutions that help businesses sca
 
 I help ambitious business owners and startup founders break free from inefficiencies, confusion, and lost opportunities by using technology to drive growth. With the right digital solutions, you can scale your business effortlessly, attract more customers, and maximize profits—without the frustration of trial and error. If you're tired of struggling and ready to take control, let’s build something extraordinary together.
 
-## I don’t just build software—I craft digital experiences that drive business success. 🚀
+### I don’t just build software—I craft digital experiences that drive business success. 🚀
 
 You're just one smart decision away from transforming your business. Let’s create a tech-driven strategy that unlocks your full potential—Book a free consultation now!
 <div align="center">
