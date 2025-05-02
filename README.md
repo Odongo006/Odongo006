@@ -9,7 +9,7 @@ I help ambitious business owners and startup founders break free from inefficien
 
 ### I don’t just build software—I craft digital experiences that drive business success. 🚀
 
-You're just one smart decision away from transforming your business. Let’s create a tech-driven strategy that unlocks your full potential—Book a free consultation now!
+You're just one smart decision away from transforming your business. Let’s create a tech-driven strategy that unlocks your full potential—Book a consultation now!
 <div align="center">
   <img src="https://camo.githubusercontent.com/7b71c9e9f7115112ce524a507d3ee377729bea9ea3a263cbe9c6badc15a16a4d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f514e46684f6f6c5665437a5051324d7838352f67697068792e6769663f6369643d6563663035653437663467713269356c676c777975346d38326d7539657836307069667a6b3574743472637330306773267269643d67697068792e6769662663743d67" alt="GIF" />
 </div>
